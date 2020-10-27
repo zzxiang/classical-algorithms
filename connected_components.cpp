@@ -76,6 +76,20 @@ int main() {
   return 0;
 }
 
+/* OUTPUT
+
+Vertices of each connected components:
+Component 0: 0 2 4 8 10 14
+Component 1: 1 3 9
+Component 2: 5 6 11
+Component 3: 7
+Component 4: 12
+Component 5: 13
+Component 6: 15
+Component 7: 16
+
+*/
+
 /**
  * Relevant coding test questions:
  * 
